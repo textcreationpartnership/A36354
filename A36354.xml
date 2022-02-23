@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new plot of the papists to transform traitors into martyrs faithfully exposed to publick view.</title>
+            <author>J. D. (John Dormer), 1636-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36354</idno>
+            <idno type="STC">Wing D1924</idno>
+            <idno type="STC">ESTC R29740</idno>
+            <idno type="EEBO-CITATION">11200332</idno>
+            <idno type="OCLC">ocm 11200332</idno>
+            <idno type="VID">46709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new plot of the papists to transform traitors into martyrs faithfully exposed to publick view.</title>
+                  <author>J. D. (John Dormer), 1636-1700.</author>
+               </titleStmt>
+               <extent>16 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to John Dormer.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46709:1"/>
+            <pb facs="tcp:46709:1"/>
+            <p>The New PLOT OF THE PAPISTS.</p>
+            <p>To Transform TRAITORS.</p>
+            <p>Into MARTYRS.</p>
+            <p>
+               <hi>Faithfully Expoſed to Publick <g ref="char:V">Ʋ</g>iew.</hi>
+            </p>
+            <q>Ex ore tuote Judico.</q>
+            <p>
+               <hi>LONDON,</hi> Printed 1679.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46709:2"/>
+            <pb n="5" facs="tcp:46709:2"/>
+            <head>READER,</head>
+            <p>THis following Paper will ſufficiently ſhew by what Arts and ſubtlety this reſtleſs, and unta<g ref="char:EOLhyphen"/>mable generation ſtill labours to ſupport their wounded Chuſe; whom neither the Judgements of the Bench, nor the Exceptions at Tyburn can ſilence, or convince. But to the end all Proteſtants may the better underſtand their wayes, and their cloſe proceedings, here is a faith<g ref="char:EOLhyphen"/>ful Tranſcript of a Paper newly taken out of the cham<g ref="char:EOLhyphen"/>ber of a notorious Papist; wherein is manifestly ſet forth their whole deſign of Canonizing thoſe men for Saints, whom the Juſtice of the Nation hath Condem<g ref="char:EOLhyphen"/>ned for <hi>Traytors.</hi> I ſuppoſe I ſhall do acceptable ſer<g ref="char:EOLhyphen"/>vice in the Publication, ſince the beſt way to avoid Er<g ref="char:EOLhyphen"/>rour is to know it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="6" facs="tcp:46709:3"/>
+            <p>EVery Rational Creature loves <hi>to be,</hi> and loves <hi>to be happy:</hi> This is ſo rooted in the Nature of Mankind, that whoſoever acts, or opines con<g ref="char:EOLhyphen"/>trary to this Principle, muſt needs be wholly deprived of the uſe of Reaſon. All the Rhetorick in the world can never perſwade a man (knowingly) to make himſelf miſerable. This being ſo, I ſay it is impoſſible, that a dying man, who is <hi>compos mentis,</hi> and does truly be<g ref="char:EOLhyphen"/>lieve, there is a God, who is powerful and juſt, in rewar<g ref="char:EOLhyphen"/>ding good, and puniſhing Evil, ſhould at the very point of death averr his Innocence, and call God (who is im<g ref="char:EOLhyphen"/>mediately to Judge him) to witneſs the truth, or to pu<g ref="char:EOLhyphen"/>niſh the falſehood of what he then ſaye, and yet be guilty of the Fact by him ſo denyed.</p>
+            <p>Whoever believes, there is a God, muſt believe him to be Truth, and Iuſtice it ſelf; and therefore he muſt know, there can be no Treaſon of a higher Nature com<g ref="char:EOLhyphen"/>mitted againſt his Divine Eſſence, then Sacrilegiouſly to abuſe, and ſet his Holy Name to a Lye; and alſo he muſt be convinced, that, ſince God is infinitely Juſt, the puniſhment he will inflict on ſuch a fact, muſt bear pro<g ref="char:EOLhyphen"/>portion with the Enormity of the crime. Since then it is impoſſible to humane nature for any man, knowingly and adviſedly to make himſelf miſerable, nay infinitely and eternally miſerable; therefore moſt impoſſible it is, that all thoſe dying men upon the ſcore of the Plott (be<g ref="char:EOLhyphen"/>lieving there is a God) ſhould vouch him, as a witneſs, and Garanty of their innocence, and yet be culpable both of the fact, by them denyed, and of the ſacrilegious af<g ref="char:EOLhyphen"/>front at the ſame time offered to His Divine Majeſty.</p>
+            <p>
+               <pb n="7" facs="tcp:46709:3"/>It remains then to conſider, whither theſe dying men did believe, there is a God: If we believe them to be Papiſts, the queſtion is at an end, ſince all mankind knows, that the Church of <hi>Rome</hi> believes there is a God, however it may err in the manner of worſhiping him; for if they did not believe there is a God, they could not erre in the manner of worſhiping him. So that, if they dyed <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſts, they believed in God. Now that they dy<g ref="char:EOLhyphen"/>ed Papiſts, I think the matter proves it ſelf, and can not be proved by any thing that is more evident: For all, that we can poſſibly know of another man's internal belief, is by his profeſſion of it; and at what time can ſuch profeſſi<g ref="char:EOLhyphen"/>on be of ſtronger evidence, then at the hour of his death?</p>
+            <p>There is another weighty reaſon to demonſtrate a Po<g ref="char:EOLhyphen"/>ſterior, that thoſe Executed perſons did believe in God: For all Atheiſts (as ſuch) muſt of neceſſity love this pre<g ref="char:EOLhyphen"/>ſent life, as their ſupreme felicity; for death with them is an end of all being: and therefore for the preſervati<g ref="char:EOLhyphen"/>on of life <hi>(their ſummum bonum)</hi> their is nothing in their power, which they will not do: whence it muſt follow, that if thoſe men had been Atheiſts, they would certain<g ref="char:EOLhyphen"/>ly have confeſt a Plott, and would have impeached others, whereby their own lives might have been preſerved.</p>
+            <p>Now then the queſtion in ſhort will be, whether more credit ought to be given to the Oathes of Mr. <hi>Oates, Bedlow, Prance</hi> and <hi>Dugdale,</hi> and the reſt of that crew, who live, and are in fair hopes to live long, and are no lo<g ref="char:EOLhyphen"/>ſers by their Swearing, or to the Oath, and imprecati<g ref="char:EOLhyphen"/>ons of ſo many dying men, at the very moment of their deaths; who are ſo far from gaining by their ſwearing, that if they would but confeſs the contrary, to what they
+<pb n="8" facs="tcp:46709:4"/>
+ſwear, might ſave their lives, and perhaps be no leſs pre<g ref="char:EOLhyphen"/>ferr'd, than Mr. <hi>Oats</hi> and his fellows; I ſay again, ſo far from gaining by ſuch their ſwearing (if not trew) that ei<g ref="char:EOLhyphen"/>ther they muſt believe, there is no God, or elſe (as I ſaid before) they are certain to damn their ſouls eternally, by making a ſacrilegious uſe of his dreadful name with their laſt breath, ſolemnly to atteſt, and confirm a Lye.</p>
+            <p>This ſeems to me to be a plain demonſtration, whither the matter be conſidered in order to Chriſtianity, or to hu<g ref="char:EOLhyphen"/>mane nature, for neither as Chriſtians, is it poſſible for them to do an act (the laſt of their lives) to affront the Almighty, who is immediately to judge them, nor as ra<g ref="char:EOLhyphen"/>tional creatures, can they wittingly expoſe themſelves to certain, and continual miſery. Therefore moſt evident it is born according to Reaſon, and Chriſtianity (and ſo it muſt appear to all, who are not void of both) that their laſt words were true; and that Mr. <hi>Fenwick</hi> had a great deal of reaſon to cloſe his Speech in this manner; <hi>And I hope Chriſtian charity will not let you think, that by the laſt act of my life I would caſt away my ſoul by ſealing up my laſt breath with a damnable Lye.</hi>
+            </p>
+            <p>It is a prodigious thing to ſee with what down-right Nonſence, and contradiction the ſeduced Rabble are im<g ref="char:EOLhyphen"/>pos'd upon in this point by thoſe ſticklers, who ſo eager<g ref="char:EOLhyphen"/>ly follow the chaſe of innocent blood; and ſtill ſearch for the bottome of the Plott, as the Heathens did for good or bad Fortune in the intrels of living Creatures; but with this difference, that they were only for the cutting up of beaſt, but our Zealots are for the imbowelling of men.</p>
+            <p>Firſt they tell them, that Papiſts have Diſpenſations to
+<pb n="9" facs="tcp:46709:4"/>
+ſay and ſwear any thing for the advantage of their cauſe, and yet all the Roman Catholicks in the world, both li<g ref="char:EOLhyphen"/>ving and dying, ſolemnly proteſt, and declare, that God himſelf, much leſs the Pope, cannot give a diſpenſation for the doing of an evil thing. Hear what dying <hi>H<gap reason="illegible" resp="#UOM" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap>
+               </hi> ſays to this point. <hi>I do utterly abhorre and deteſt that abomi<g ref="char:EOLhyphen"/>nable and falſe doctrine laid to our charge, that we can have Licence to commit Perjury, or any ſin to advantage our cauſe, being expreſly againſt the Doctrine of</hi> St. Paul, Non ſunt fa<g ref="char:EOLhyphen"/>cienda mala, ut eveniant bona, <hi>Evil is not to be done, that good may come thereof.</hi> The reſt of them ſpeak upon this matter to the ſame purpoſe: Now ſince inward belief cannot be known, but by outward profeſſion, who are to be believed in this point, the living calumniators, or the dying Profeſſors?</p>
+            <p>In the next place they take upon them to interpret the words of our dying men; and ſay, that when they declare themſelves innocent, <hi>as the child unborn, &amp;c.</hi> The meaning is; <hi>they are innocent, becauſe they have had the Prieſts abſo<g ref="char:EOLhyphen"/>lution for it,</hi> although the Fact was committed by them. This piece of ſubtle Nonſence does mightily pleaſe, both the ſeducing Commentatours and their ſeduced party. But firſt it is falſe, that a man is innocent, becauſe he is abſolved: One commits Treaſon, and hath the King's Pardon, is he therefore innocent? clean contrary; a Par<g ref="char:EOLhyphen"/>don is rather an argument of the crime committed, and does no more, but remit the penalty. For no pardon or ab<g ref="char:EOLhyphen"/>ſolution can make that thing not to be done, which is done. Beſides no Roman Catholick, according to the doctrine of his Church, can ſwear, he is innocent in any ſence by reaſon of his abſolution; becauſe no man can evidently
+<pb n="10" facs="tcp:46709:5"/>
+know (without a particular revelation) that he is recon<g ref="char:EOLhyphen"/>ciled to God, or whither in his ſight he be worthy of love, or hatred; but all men are ſtill bound to work their ſalvation with fear, and trembling. Since then no man can ſwear a thing, which he does not evidently know; how therefore in this ſuppoſitious ſence of innocence, which ſuppoſeth the Fact committed, is it poſſible, they could ſwear they were innocent? whence it is manifeſt, that our executed men did with their laſt breath deny, in the preſence of God, and men, (according to their own words) the very Fact it ſelf, <hi>viz.</hi> the compoſing, and con<g ref="char:EOLhyphen"/>ſpiring the death of the King; and did aſſert their inno<g ref="char:EOLhyphen"/>cence, not by vertue of an abſolution, but by pleading, <hi>non est factum.</hi>
+            </p>
+            <p>There is yet another ſhift (I think a very unchriſtian one) made uſe of by this ſort of men to obſcure the truth, and evade the force of our argument: They ſay, that af<g ref="char:EOLhyphen"/>ter our dying men had firſt luſtily forſworn themſelves in the declaration of their innocence, then for the laſt Act of this Tragical Farce (as their charity repreſents it) the Prieſts laid their heads together, and abſolv'd each other, and all was right again; and ſo away they pack'd for a<g ref="char:EOLhyphen"/>nother world. <hi>Deus non irridetur.</hi> It is hard to ſay, whi<g ref="char:EOLhyphen"/>ther the impiety or the impoſſibility of this Story be grea<g ref="char:EOLhyphen"/>ter: it is ſuch a mockery put upon our merciful, but juſt God, to abuſe, and affront him upon preſumption of his Pardon, that I wonder, how the fiction, and invention of it could enter into the thoughts of a Chriſtian. As for the impoſſibility of it, certain it is, thoſe Jeſuits, who were the teachers of others, could not be ignorant of the Do<g ref="char:EOLhyphen"/>ctrine of their own Church, ſet forth in every Catechiſm,
+<pb n="11" facs="tcp:46709:5"/>
+and in their Councel of <hi>Trent: viz.</hi> That no abſolution is available to a ſinner, which is not preceded by a ſorrow, and deteſtation of the ſin by him committed, and by a firm purpoſe of tranſgreſſing no more: Now, ſince it is impoſſible voluntarily to do a thing, and at the ſame time to deteſt it; and ſince without a deteſtation and abhor<g ref="char:EOLhyphen"/>rency of their ſin, they could not hope for any benefit from an abſolution; how then can thoſe dying men, with any appearency of reaſon, be thought to make uſe of this wretched artifice to cheat the world, and manifeſtly to damn their own ſouls? more-over they could not be ig<g ref="char:EOLhyphen"/>norant, that God Almighty is at no time obliged to give a revolted Sinner the grace of Repentance; much leſs will he do it, at that very moment, when ſuch ſinner ſhall pervert the mercy of his Redeemer into a motive, and in<g ref="char:EOLhyphen"/>centive of Rebellion againſt him; and ſo make a Poyſon of the Antidote.</p>
+            <p>All the premiſſes being duly weigh'd, is there not ſome reaſon a litte to heſitate, and to doubt at leaſt, whe<g ref="char:EOLhyphen"/>ther Mr. <hi>Oats</hi> (overpower'd by the two prevailing Mo<g ref="char:EOLhyphen"/>tives, firſt of revenge againſt the Jeſuites, for not re<g ref="char:EOLhyphen"/>ceiving, and entertaining him any longer, and next of procuring a ſubſiſtance, which he then wanted) may not have invented that voluminous Hiſtory of his Plott (which to all people knowing in the world hath the perfect air of a Romance; and whether Mr. <hi>Bedlow, Prance</hi> and <hi>Dug<g ref="char:EOLhyphen"/>dal</hi> (exalted from Goales to the glorious titles of the Kings Evidence, and ſaviours of their Countrey) may not alſo have been tempted, by the good ſucceſs of their Leader Mr. <hi>Oats,</hi> and by indemnity, and rewards, to take upon them this gainful Trade of ſwearing? eſpecially, ſince
+<pb n="12" facs="tcp:46709:6"/>
+there are no viſible, concurring circumſtances, nor mat<g ref="char:EOLhyphen"/>ters of fact extant, and appearing to give any ſolidity to this aicry Plott: but all is made out purely by the dint of ſwearing, and only corroberated by the credulity of the people. Set now againſt this the Oaths and Proteſta<g ref="char:EOLhyphen"/>tions of ſo many dying men; the reputation of thoſe who are yet living, and accuſed; of whom many have been eminent (as in their quality) ſo for their ſervice, and ſuf<g ref="char:EOLhyphen"/>fering in behalf of their King, and Countrey. And after all this, will it not become every ſober man to pauſe a little, that <hi>their feet</hi> may not be too <hi>ſwift in ſhedding of blood?</hi> let ſomething be left to God's manifeſtation, and let us not truſt wholly to the Revelation of <hi>Oats, Bedlow, Prance</hi> and <hi>Dugdal,</hi> in a caſe of blood, and perhaps of in<g ref="char:EOLhyphen"/>nocent blood.</p>
+            <p>But before I proceed any further upon this Subject, I muſt warn my Reader, that I no wayes arraign the Juſtice of the Nation, or the Votes of both Houſes in relation to this Plott: For according to the Informations at firſt brought before them of ſo horrid and bloody a Conſpira<g ref="char:EOLhyphen"/>cy, they acted then like good Patriots, and like them<g ref="char:EOLhyphen"/>ſelves, in their zealous proſecution of it in order to the bringing the partyes accuſed to a juſt and legal Tryal. But then again, far be it from any man to believe, that thoſe Honourable Patriots are more deſirous of puniſh<g ref="char:EOLhyphen"/>ment to be inflicted, and of blood to be ſhed, then of Truth to be diſcovered: and ſince there is ſuch a ſin in the world as Perjury, ſo exterminating to mankind, and of ſo dangerous a Nature, that it hath even the Law, and Juſtice itſelf to back and protect it, till ſuch a time as it is detected, and lifted out by the ſagacity and diſcernment
+<pb n="13" facs="tcp:46709:6"/>
+of able Judges; and ſince in our preſent caſt there are pregnant ſymptomes, and indications ſuperven<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of that Civil Plague; It well may become the prudence and Ju<g ref="char:EOLhyphen"/>ſtice of all our Magiſtrates in general, after ſo much blood as hath been already ſhed upon the bare teſtimony of theſe men, without any real diſcovery of the things by them ſworn, either by matter of Fact extant and appa<g ref="char:EOLhyphen"/>rent, or by the confeſſion of any of the perſons Executed, ſoberly to weigh, and examine, whether this legal way of murdering men (if that be the caſe) by falſe Oaths, ought not to be as narrowly ſifted, and as exemplarly pu<g ref="char:EOLhyphen"/>niſhed in the Perjurers, as the crime of Rebellion (ſhould that be true) in the Trayters.</p>
+            <p>Now in the laſt place, to convince all thoſe, whoſe hearts are not of <hi>Pharo's</hi> temper, and whom the violence, of Paſſion has not totally deprived of all exerciſe of rea<g ref="char:EOLhyphen"/>ſon, I ſhall only take a ſhort view of what was done in the Gunpowder-Treaſon, and compare thoſe paſſages and the comportments of the Criminals upon that occa<g ref="char:EOLhyphen"/>ſion, with theſe of our Modern pretended Conſpirators.</p>
+            <p>In the firſt place there was then viſible the overt act of barrels of Powder laid in the place.</p>
+            <p n="2">2. There was the ſlight of ſome of the Conſpirators, and their reſiſtance at their taking.</p>
+            <p n="3">3. Thoſe that were executed, did all confeſs the fact at the time of Execution.</p>
+            <p n="4">4. All perſons indifferently, both Papiſts and Prote<g ref="char:EOLhyphen"/>ſtants, Forrainers and Natives believed the thing: and, although ſome Pamphlets were at that time written to extenuate the Fact, and the guilt in reference to ſome of the Party's therein concern'd, yet no ſoul living did then deny the thing it ſelf.</p>
+            <p>
+               <pb n="14" facs="tcp:46709:7"/>How then comes it to paſs, that in our preſent Conſpi<g ref="char:EOLhyphen"/>racy, all things ſhould rancounter, &amp; Diametrically con<g ref="char:EOLhyphen"/>trary in every particular to what then happen'd; and to what ever did happen in all <hi>real</hi> Plotts, and Conſpiracies ſince the Creation of the world?</p>
+            <p>Firſt as to overt Acts, there is not here any matter of Fact viſible, and apparent, that has any proper tendency or relation to a Conſpiracy for deſtroying the King, and levying of War; but the whole Machine of this vaſt, and hideous Plott is built upon the bare teſtimony of the ſwea<g ref="char:EOLhyphen"/>rers.</p>
+            <p>Let not the death of Sr. <hi>Edmund Bury Godfrey</hi> be urged, as a matter of Fact, to prove this pretended Conſpiracy, becauſe the unfortunate end of that Gentleman, as to the true manner of it, is a Miſtery yet unreveal'd, and is laid at the Papiſts dore, juſt as Antichriſt is charged upon the Pope: all that would have it ſo, believe it to be ſo, <hi>Quae volumus, facile credimus:</hi> But I think, there are few unbi<g ref="char:EOLhyphen"/>as'd, and diſcerning men, who are convinced, that thoſe poor creatures, who ſuffered death upon that account, were his true Murderers; nor can they rationally be ſo, until Mr. <hi>Prance,</hi> who once diſclaimed his Evidence be<g ref="char:EOLhyphen"/>fore King and Councel, ſhall in the ſame circumſtance of dying, declare their Guilt, in which they ſo ſolemnly declared their innocence, eſpecially ſince <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erry</hi> at the ſame time declared himſelf both innocent, &amp; a Proteſtant.</p>
+            <p>As to the conſult of the Jeſuits on the 14th. of <hi>April,</hi> and thoſe Letter of ſummons produced in order thereun<g ref="char:EOLhyphen"/>to I ſay that, if the meeting of the Jeſuits at that time be an overt Act to prove a Conſpiracy of Treaſon, then every third year ſince Jeſuits were Jeſuits, there has been a
+<pb n="15" facs="tcp:46709:7"/>
+Plott; for they have conſtantly held (according to the Rule of their Order) thoſe triennial meetings ever ſince their firſt foundation, as all the world abroad can teſtify.</p>
+            <p>By all this it appears, that there is no overt Act, not matter of Fact at all, to ground a Rational belief of this Plott; and that it is only ſupported by the breath of the witneſſes coyned into Oaths.</p>
+            <p n="2">2. Not one perſon accuſed in this pretended Conſpi<g ref="char:EOLhyphen"/>racy did either fly, or abſcond (except only the Prieſts, who were obnoxious to the Law for their Prieſthood) nay the greateſt part of them upon the firſt rumour of their accuſation, came in and tendred themſelves to anſwer their charge. And here (pray) let me ask every ſober man, whether it be likely or poſſible, that amongſt ſo many as are accuſed of this Treaſon, not one ſhould be found, whoſe guilt, or fear would prevail upon him to fly and ſe<g ref="char:EOLhyphen"/>cure himſelf from the extreameſt penalty of the Law, ſince it was univerſally known many days before any were apprehended, that Mr. <hi>Oats</hi> had made a diſcovery of a Plott the ſtouteſt man, had he been guilty, would have fled upon ſuch a warning: but the moſt timorous of na<g ref="char:EOLhyphen"/>ture did not fly, becauſe he was innocent.</p>
+            <p n="3">3. Of ſo many, that have been Executed for this Plott (horrid &amp; bloody indeed, on one ſide or the other) all at their deaths have de<g ref="char:EOLhyphen"/>nyed the Fact; and although life be ſweet, have reſiſted all tempta<g ref="char:EOLhyphen"/>tions of Pardon, and reward offered unto them, if they would but confeſs for themſelves; and others what they were not guilty of.</p>
+            <p>And here again I muſt ask another queſtion; and I beg of every one, who reads this Paper, to make an anſwer to it within himſelf, ſuch as may fairly ſatisfy his own reaſon, and conſcience. How comes it to paſs that in all former Conſpiracies, as that of <hi>Babing<g ref="char:EOLhyphen"/>ton</hi> in the dayes of Queen <hi>Elizabeth,</hi> and that of the Gunpowder-Treaſon
+<pb n="16" facs="tcp:46709:8"/>
+in the Reign of King <hi>James,</hi> the Conſpirators then ſhould confeſs the Fact, many of them pleading guilty at their Arraign<g ref="char:EOLhyphen"/>ments, and all of them at their deaths acknowledging their Treaſons and asking God and the King pardon for them? but in this Plott all to a man plead not guilty, proteſting and declaring their innocence both at their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and Executions they dye praying for the King, praying for their Enemies, asking God and the world forgiveneſs for all their other ſins and offences, but as to the Plott, affirming their innocence with their laſt breath, and ſealing it with their blood? whence (I ſay) this vaſt difference in the comportments of theſe, and and of thoſe? are they not all Papiſts? were there no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then Jeſuits amongſt them, as well as now? was there not a <hi>Garnet</hi> then confeſſing, as well as a <hi>Whit thread</hi> how denying, and both Provin<g ref="char:EOLhyphen"/>cials of their Order? haue they gotten a new Faith or a new Creed ſince thoſe days? on is there not the ſame humane Nature in both? I challenge all mankind to aſſign a cauſe of this difference with the leaſt colour of Reaſon and humanity, any otherwiſe, then by ſaying, what was ſaid at the death of the juſt one, <hi>vere, hic homo juſtus erat.</hi>
+            </p>
+            <p n="4">4. As to the preſent belief of this Plott, I muſt confeſs, it does now paſs as currant with the Rabble here, as the firing of <hi>Rome</hi> by the Chriſtians in the days of <hi>Nero,</hi> did with the Populate of that City; and both have produced the like bloody effects. But ſince the blood of innocent men did never yet do hurt to themſelves, or their party, we are to take ſuch diſpenſations (according to God's own words) as marks of his Love, and as an earneſt of better things to come. And ſuch is the power of truth, that I dare affirm (not pretending to the gift of Propheſie) ſome years hence this Plott will no more be believed in <hi>England,</hi> than now it is believed that the Chriſtians did burn <hi>Rome.</hi> The eyes of other Nations are general<g ref="char:EOLhyphen"/>ly opened already to ſee the impoſture: and the impoſſibility of the thing, and the circumſtances (taking the whole frame, &amp; Syſtem of the Conſpiracy, as layd down by Mr. <hi>Oats</hi> in his Narrative) is ſo manifeſt to all diſcerning men that few even Proteſtants in forreign parts take it to be any other, but a Pollitick engine to carry on far<g ref="char:EOLhyphen"/>ther deſigns.</p>
+            <p>I ſhall conclude with this hearty Prayer, that our merciful God may avert from our Nation thoſe Judgements, which uſually fol<g ref="char:EOLhyphen"/>low the crying ſins of Perjury and blood.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46709:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
